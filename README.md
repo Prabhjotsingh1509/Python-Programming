@@ -42,5 +42,7 @@ This folder is for:
 - Cover all the topics of python-learning
 - Experiment-1 -> (Basics)
 - Experiment-2 -> (Conditional Statements)
+- Experiment-3 -> (Loops)
+- Experiment-4 -> (Strings and sets)
 
 Perfect for learning through experimentation.
